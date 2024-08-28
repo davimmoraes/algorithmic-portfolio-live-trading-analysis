@@ -1,1 +1,1 @@
-Análise exploratória de dados de um portfolio de algoritmos operando de forma automatizada no mercado. Estudos das métricas do sistema e comparações com o benchmark.
+Exploratory data analysis of an algorithmic portfolio operating automatically in the market. Study of system metrics and comparisons with the benchmark.
